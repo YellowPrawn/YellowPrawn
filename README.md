@@ -13,7 +13,7 @@ I'm currently looking for an internship/co-op position for Jan-Sep 2023. If my p
  
  ## Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,githubactions,java,r,mysql,matlab,vscode,github,cpp,docker,md,ps&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,githubactions,java,r,mysql,matlab,vscode,cpp,docker,md,ps&theme=dark)](https://skillicons.dev)
 </br>
 
 </br>
