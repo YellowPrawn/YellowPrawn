@@ -8,8 +8,6 @@ Here you can find all my public projects that I've been working on since 2019! F
 
 [email](fungd2@student.ubc.ca)
 </br>
-
-I'm currently looking for an internship/co-op position for Jan-Sep 2023. If my profile interests you, you can reach me through one of the above channels!
  
  ## Technical Skills
 
