@@ -5,7 +5,7 @@ Here you can find all my public projects that I've been working on since 2019! F
  
 ## What I'm doing
 - Working on 3rd year undergraduate studies.
-- Looking forward to working at the UBC Data Science Institute for my co-op term starting in January!
+- Data Sciencing at the UBC Data Science Institute!
  
  ## How to find me
 [LinkedIn](https://www.linkedin.com/in/damien-fung/)
