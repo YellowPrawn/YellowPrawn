@@ -15,9 +15,13 @@ Here you can find all my public projects that I've been working on since 2019! F
 
 ## Recommended Reading
 [Claus O. Wilke - Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html)
+
 [Dan Jurafsky and James H. Martin - Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+
 [Jay Alammar - The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
 [Max Kuhn and Kjell Johnson - Applied Predictive Modelling](http://appliedpredictivemodeling.com/)
+
  
  ## Technical Skills
 
