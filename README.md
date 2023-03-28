@@ -1,5 +1,5 @@
 # Damien Fung
-👋 Hi, I’m Damien! Welcome to my git dashboard! I'm currently a 3rd year undergraduate Statistics + Data Science student at the University of British Columbia. I'm interested in creating and learning about elegant visualizations and story-led analytics in data science.
+👋 Hi, I’m Damien! Welcome to my git dashboard! I'm currently a 3rd year undergraduate Statistics + Data Science student at the University of British Columbia. I'm interested in creating natural language and computer vision models and understanding the behind-the-scenes of those models through statistics!
 
 Here you can find all my public projects that I've been working on since 2019! Feel free to check them out and ask me anything about them!
  
@@ -12,6 +12,12 @@ Here you can find all my public projects that I've been working on since 2019! F
 
 [Email](fungd2@student.ubc.ca)
 </br>
+
+## Recommended Reading
+[Claus O. Wilke - Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html)
+[Dan Jurafsky and James H. Martin - Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+[Jay Alammar - The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+[Max Kuhn and Kjell Johnson - Applied Predictive Modelling](http://appliedpredictivemodeling.com/)
  
  ## Technical Skills
 
