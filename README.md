@@ -31,7 +31,7 @@ Here you can find all my public projects that I've been working on since 2019! F
 </br>
 
 
-[![Damien’s github stats](https://github-readme-stats.vercel.app/api?username=YellowPrawn)](https://github.com/YellowPrawn)
+[![Damien’s github stats](https://github-readme-stats.vercel.app/api?username=YellowPrawn&show_icons=true&theme=transparent)](https://github.com/YellowPrawn)
  
 <!---
 YellowPrawn/YellowPrawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
