@@ -25,13 +25,8 @@ Here you can find all my public projects that I've been working on since 2019! F
  
  ## Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,githubactions,java,r,mysql,matlab,vscode,cpp,docker,md,ps&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,github,githubactions,java,r,mysql,matlab,vscode,cpp,docker,md,ps&theme=dark)](https://skillicons.dev)
 </br>
-
-</br>
-
-
-[![Damien’s github stats](https://github-readme-stats.vercel.app/api?username=YellowPrawn&show_icons=true&theme=transparent&hide_border=true)](https://github.com/YellowPrawn)
  
 <!---
 YellowPrawn/YellowPrawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
