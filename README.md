@@ -5,8 +5,10 @@ Here you can find all my public projects that I've been working on since 2019! F
  
 ## What I'm doing
 - Working on 4th year undergraduate studies.
-- Making machine learning / NLP models at the UBC Data Science Institute!
- 
+
+## What I've done
+- Made NLP models and research publications at the UBC Data Science Institute!
+
  ## How to find me
 [LinkedIn](https://www.linkedin.com/in/damien-fung/)
 
