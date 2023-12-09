@@ -12,7 +12,7 @@ Here you can find all my public projects that I've been working on since 2019! F
  ## How to find me
 [LinkedIn](https://www.linkedin.com/in/damien-fung/)
 
-[Email](fungd2@student.ubc.ca)
+[Email](mailto:fungd2@student.ubc.ca)
 </br>
 
 ## Recommended Reading
