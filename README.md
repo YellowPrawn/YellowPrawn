@@ -4,7 +4,7 @@
 Here you can find all my public projects that I've been working on since 2019! Feel free to check them out and ask me anything about them!
  
 ## What I'm doing
-- Working on 4th year undergraduate studies.
+- Wrapping up 4th year undergraduate studies.
 
 ## What I've done
 - Made NLP models and research publications at the UBC Data Science Institute!
