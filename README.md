@@ -1,12 +1,13 @@
 # Damien Fung
-👋 Hi, I’m Damien! Welcome to my git dashboard! I'm currently a 4th year undergraduate Statistics + Data Science student at the University of British Columbia. I'm interested in creating natural language processing and computer vision models and understanding the behind-the-scenes of those models through statistics!
+👋 Hi, I’m Damien, a Software Engineer at Lirvana Labs! Welcome to my git dashboard! 
 
 Here you can find all my public projects that I've been working on since 2019! Feel free to check them out and ask me anything about them!
  
 ## What I'm doing
-- Wrapping up 4th year undergraduate studies.
+- Joining Lirvana Labs as a Software Engineer!
 
 ## What I've done
+- Graduated from UBC with a BSc in Statistics
 - Made NLP models and research publications at the UBC Data Science Institute!
 
  ## How to find me
