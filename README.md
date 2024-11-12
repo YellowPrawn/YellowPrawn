@@ -4,7 +4,7 @@
 Here you can find all my public projects that I've been working on since 2019! Feel free to check them out and ask me anything about them!
  
 ## What I'm doing
-- Joining Lirvana Labs as a Software Engineer!
+- Working at Lirvana Labs as a Software Engineer!
 
 ## What I've done
 - Graduated from UBC with a BSc in Statistics
