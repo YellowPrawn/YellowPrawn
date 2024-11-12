@@ -28,7 +28,7 @@ Here you can find all my public projects that I've been working on since 2019! F
  
  ## Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,github,githubactions,java,r,mysql,matlab,vscode,cpp,docker,md,ps&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,github,githubactions,java,androidstudio,dart,firebase,flutter,gcp,gradle,graphql,r,mysql,matlab,vscode,cpp,docker,md,latex,obsidian,spring,ps&theme=dark)](https://skillicons.dev)
 </br>
  
 <!---
